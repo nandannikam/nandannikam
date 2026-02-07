@@ -27,8 +27,8 @@
 
 
 ## 💻 Tech Stack:
-<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" height="40"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white" height="40">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="60"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="60">
 
 
 ## 📈 Contribution Graph:
@@ -41,9 +41,9 @@
 </div>
 
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandannikam&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandannikam&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nandannikam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nandannikam&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nandannikam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+[![](https://visitcount.itsvg.in/api?id=nandannikam&icon=0&color=0)](https://visitcount.itsvg.in)
