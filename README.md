@@ -15,6 +15,7 @@
 
 
 ## 👨‍💼 About Me:
+ ▹ I am currently pursuing Integrated M.tech in AI from VIT Bhopal. <br/>
  ▹ A passionate student currently pursuing graduation in the field of AI. <br/>
  ▹ Diving deep into new technology and loving every minute of it. <br/>
  ▹ Learning: OOPS and DSA with C++. <br/>
