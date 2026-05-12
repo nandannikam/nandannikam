@@ -3,11 +3,11 @@
   <h1>Hi 👋, I'm Nandan Nikam</h1>
   <p><b>AI Student | Tech Enthusiast</b></p>
 
-  <a target="_blank" href="https://www.linkedin.com/in/nandannikam">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
+<a target="_blank" href="https://www.linkedin.com/in/nandannikam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
   <a target="_blank" href="mailto:nikam.nandan.35@outlook.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=microsoft-outlook&logoColor=white" height="35" alt="email" />
   </a>
 </div>
 
