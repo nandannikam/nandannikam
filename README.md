@@ -4,12 +4,7 @@
   <p><b>AI Student | Tech Enthusiast</b></p>
 
 
-  <a target="_blank" href="https://www.linkedin.com/in/nandannikam">
-
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
-
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="35" alt="email" />
-  </div>
+[![Instagram](https://img.shields.io/badge/Linkedin-%23E4405F.svg?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nandannikam/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikam.nandan.35@outlook.com) 
 
 <br/>
 
